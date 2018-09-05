@@ -83,12 +83,36 @@
 
 Перейдем в режим выделения вершин.
 
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
-![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image42.png)
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image27.png)
+
+Нажмем C и выделим вершины которые собираемся соединять.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image29.png)
+
+Чтобы создать грани между выделенными вершинами нажмем Alt+F
+
+Перейдем в режим твердого тела, и посмотрим на результат.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image31.png)
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image33.png)
+
+Выберем редактирование граней и выделим верхнюю грань.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image34.png)
+
+Нажмем E, и вытянем верхнюю грань.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image35.png)
+
+Нажмем S, и увеличим верхнюю грань.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image36.png)
+
+Нажмем ALT+S  и немного опустим верхнюю грань.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image37.png)
+
+Нажмем E и немного вытянем верхнюю грань.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image38.png)
