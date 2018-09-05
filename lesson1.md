@@ -183,4 +183,38 @@
 
 ![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image6.png)
 
+Добавим новый материал.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image7.png)
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image8.png)
+
+Установим чёрный цвет.
+
+Добавим еще один материал,  установим светло серый цвет, и установим указанные на картинке параметры (интенсивность на максимум и жесткость 10).
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image9.png)
+
+Установим вид сбоку, и выделим барашек.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image10.png)
+
+Выберем черный материал и назначим его барашку.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image12.png)
+
+Выберем черный материал и назначим его барашку.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image13.png)
+
+Включим "Object Mode" вернемся в режим отображения "Solid".
+
+Добавим источник света. Разместим указатель так как показано на картинке.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image46.png)
+
+Создадим точечный источник света.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image48.png)
+
 
