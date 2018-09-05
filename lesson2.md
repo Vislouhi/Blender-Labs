@@ -34,3 +34,28 @@
 Теперь выделим внешний контур и тоже превратим в круг.
 
 ![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image15.png)
+
+Включим режим удаления граней и выделим те, которые собираемся удалить.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image14.png)
+
+Удалим эти грани.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image18.png)
+
+Перейдем в режим выделения точек и вручную придадим клемме нужную форму, перетаскивая точки ПКМ.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image16.png)
+
+Перейдем в режим выделения граней, нажмем A и затем E. Придадим клемме объем.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image17.png)
+
+Выделим с торца клеммы две грани.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image19.png)
+
+Нажмем E и вытянем место крепления провода.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image20.png)
+
