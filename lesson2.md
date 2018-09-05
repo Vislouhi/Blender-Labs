@@ -83,3 +83,28 @@
 
 ![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image26.png)
 
+Нажмем Shift+Alt+S и сделаем круг.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image1.png)
+
+Перейдем в режим выделения граней, выделим грани круга, нажмем Е и вытянем провод.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image2.png)
+
+
+Выделим все грани кроме провода перейдя к виду "Сетка" и нажав С.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image3.png)
+
+Нажмем CTRL+B чтобы сгладить края.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image4.png)
+
+Выберем вид с камеры и выберем способ отображения "Rendered".
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image5.png)
+
+Убедимся, что клемма создана верно.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image6.png)
+
