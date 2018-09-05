@@ -218,3 +218,77 @@
 ![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image48.png)
 
 
+Перейдем в режим "Rendered". Убедимся, что все получилось верно.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image49.png)
+
+
+Добавим табличку с надписью.
+
+Вырежем на панели регулятора таблицу.
+
+Сначала опустим регулятор под сетку.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image51.png)
+
+Настроим вид сверху, нажмем K и вырежем прямоугольник.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image54.png)
+
+Перейдем в режим редактирования текстур.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image56.png)
+
+В правом окне убедимся что выделена грань, на которую мы будем накладывать текстуру.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image59.png)
+
+Откроем файл с изображением.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image61.png)
+
+Наводим мышь на выделенную грань и нажмем U и укажем сделать развертку "Unwrap".
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image63.png)
+
+Перейдем в режим текстур.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image65.png)
+
+ПКМ перетаскиваем отмеченные точки так, чтобы табличка разместилась корректно.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image45.png)
+
+После настройки переходим в основной режим .
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image24.png)
+
+Создадим еще один материал. И после этого перейдем к подключению текстуры.
+
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image25.png)
+
+Создадим новую текстуру.
+
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image26.png)
+
+Здесь выберем нашу текстуру.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image28.png)
+
+Перейдем к материалам, и назначим материал с текстурой нашей табличке.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image30.png)
+
+Перейдем в режим "Rendered" и убедимся, что все сделано верно.
+
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image32.png)
+
+
+
+
+
+
+
