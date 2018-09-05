@@ -151,4 +151,36 @@
 
 ![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image20.png)
 
+Нажмем CTRL+B чтобы сгладить грани. Двигая мышь настроим величину сглаживания. При необходимости большего сглаживания можем повторить операцию.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image21.png)
+
+Перейдем в режим визуализации.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image22.png)
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image23.png)
+
+Настроим подобающий вид.
+
+Увеличим площадку регулятора.
+
+Выделим противолежащие боковые грани площадки, нажмем Ctrl+S и растянем площадку.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image3.png)
+
+Выделим одну длинную боковую грань и так же растянем ее.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image4.png)
+
+Раскрасим модель.
+
+Щелкнем по названию объекта и выберем режим редактирования материала.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image5.png)
+
+Выберем желтый цвет.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image6.png)
+
 
