@@ -59,3 +59,27 @@
 
 ![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image20.png)
 
+Нажмем Е еще раз, и вытянем основу для изоляции провода.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image21.png)
+
+Нажмем S и увеличим основу.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image22.png)
+
+Нажмем E и вытянем ее.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image23.png)
+
+Применим Subdivide к торцу дважды.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image24.png)
+
+Выделим 4 грани в центре и сновы применим Subdivide.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image25.png)
+
+Перейдем в режим выделения ребер и выделим ребра из которых будем делать круг.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson2/image26.png)
+
