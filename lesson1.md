@@ -116,3 +116,39 @@
 Нажмем E и немного вытянем верхнюю грань.
 
 ![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image38.png)
+
+Нажмем E, и не двигая мышь, сразу нажмем ЛКМ, затем нажмем S и уменьшим грань.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image39.png)
+
+Настроим следующий вид
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image14.png)
+
+Сделаем зубцы.
+
+Снимем выделение, нажмем K и щелкнем в двух точках, затем нажмем ENTER.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image15.png)
+
+Получим.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image16.png)
+
+Сделаем еще зубцы.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image17.png)
+
+Выделим грани для дальнейшего вытягивания.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image18.png)
+
+Сменим вид, нажмем E и вытянем барашек регулятора.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image19.png)
+
+Перейдем в режим сетки и выделим грани барашка.
+
+![Image alt](https://github.com/vislouhi/Blender-Labs/raw/master/images/lesson1/image20.png)
+
+
